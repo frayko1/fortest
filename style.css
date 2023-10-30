@@ -402,3 +402,28 @@ nav h1 {
 		height: 365px;
 	}
 }
+
+#review {
+	text-align: center; 
+	color:white; 
+	position: relative; 
+	top:115px;
+}
+
+@media(max-height: 775px){
+	#review{
+		top: 80px;
+	}
+}
+
+@media(max-height: 700px){
+	#review{
+		top: 50px;
+	}
+}
+
+@media(max-height: 635px){
+	#review{
+		top: 40px;
+	}
+}
