@@ -156,6 +156,9 @@ nav h1 {
 		font-size: 15px;
 		padding: 12px 25px;
 	}
+	header .container {
+		max-width: 85%;
+	}
 }
 
 /*.btn-main:hover {
